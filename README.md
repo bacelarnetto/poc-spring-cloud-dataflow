@@ -1,3 +1,6 @@
+#DOCKER
+docker-compose -f ./docker-compose.yml -f ./docker-compose-rabbitmq.yml up
+
 # APP demo-cloud-processor
 ## Custom_Processor_Deploy_Server
 
