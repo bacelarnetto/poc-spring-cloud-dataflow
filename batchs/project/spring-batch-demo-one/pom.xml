@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.demo</groupId>
 	<artifactId>spring-batch-demo-one</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>spring-batch-demo-one</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
